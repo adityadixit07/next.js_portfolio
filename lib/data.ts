@@ -5,9 +5,9 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
-import courseapp from "/courseapp.png";
-import meetingcalendly from "/meetingcalendly.png";
-import blogapp from '/blogapp.png'
+import courseapp from "@public/courseapp.png";
+import meetingcalendly from "@public/meetingcalendly.png";
+import blogapp from '@public/blogapp.png'
 
 export const links = [
   {
