@@ -2,12 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
-import courseapp from "@public/courseapp.png";
-import meetingcalendly from "@public/meetingcalendly.png";
-import blogapp from '@public/blogapp.png'
+import blogapp from "@/public/blogapp.png";
+import courseapp from "@/public/courseapp.png";
+import meetingcalendly from "@/public/meetingcalendly.png";
 
 export const links = [
   {
